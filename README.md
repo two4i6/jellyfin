@@ -1,3 +1,9 @@
+# jellyfin-web
+
+fork from [Jellyfin Web](https://github.com/jellyfin/jellyfin-web)
+
+---
+
 <h1 align="center">Jellyfin Web</h1>
 <h3 align="center">Part of the <a href="https://jellyfin.org">Jellyfin Project</a></h3>
 
@@ -74,4 +80,3 @@ Jellyfin Web is the frontend used for most of the clients available for end user
    ```sh
    yarn build:development
    ```
-# jellyfin
